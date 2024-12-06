@@ -1,7 +1,12 @@
 Alunos
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1- jonatas
+=======
+1- Marina França
+
+>>>>>>> 1670d7747c86119913a7db1225760dd2fac80b60
 =======
 1- Iury batista Feitoza
 >>>>>>> cfb8f516e2d81f2ae90ae00167f27c5b28392045
