@@ -1,3 +1,7 @@
 Alunos
 
+<<<<<<< HEAD
 1- João Marcos 
+=======
+1- Iury batista Feitoza
+>>>>>>> cfb8f516e2d81f2ae90ae00167f27c5b28392045
